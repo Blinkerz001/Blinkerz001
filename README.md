@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Blinkerz001
 - 👀 I’m interested in physics
-- 🌱 I’m currently learning how to make games
+- 🌱 I’m currently interested in improving my python data analysis skills and small fun projects.
 - 💞️ I’m looking to collaborate on physics and math related projects
-- 📫 How to reach me ...
 
 <!---
 Blinkerz001/Blinkerz001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
